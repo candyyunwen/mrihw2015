@@ -5,9 +5,9 @@
 ## 作業四：fMRI 分析
 ### 資料夾中 visual_fmri 裏有三個子資料夾
 
-T1: 3D-T1 MP-RAGE
+```T1: 3D-T1 MP-RAGE
 VisualfMRI: 100影片，擷取時使用視覺刺激及block design 20off_20on_20off_20on_20off
-HRF: 180張影像，18張影像為一組，每組撥放一秒鐘之視覺刺激
+HRF: 180張影像，18張影像為一組，每組撥放一秒鐘之視覺刺激```
 
 
 
